@@ -1,0 +1,15 @@
+#pai {
+    width: 500px;
+    border: double 2px black;
+    border-radius: 7px;
+    margin: auto;
+    padding: 7px;
+    word-break: break-all;
+}
+
+#rosa {
+    width: 195px;
+    height: 195px;
+    float: left;
+    margin-right: 12px;
+}
